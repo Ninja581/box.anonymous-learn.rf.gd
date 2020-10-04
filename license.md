@@ -1,5 +1,5 @@
 # License
-The files of this respositories are under a closed license
+The files of this respositories are under a closed license.
 
 
 
